@@ -641,3 +641,8 @@ span {
     }
 }
 
+@media (max-height: 892px) {
+    .home .profession-container .overlay{
+        top: 88rem;
+    }
+}
