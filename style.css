@@ -372,12 +372,6 @@ span {
     box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.5);
 }
 
-.containers video {
-    height: 350px;
-    border-radius: 10px;
-    box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.5);
-}
-
 .demo {
     margin-top: 20px;
     margin-left: 5px;
